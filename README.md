@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <h3>Front-end Developer</h3>
 </div>
 
-### Несколько слов о себе:
+### About me:
 Front-end developer passionate about crafting engaging and user-friendly web experiences. Proficient in HTML and CSS, currently diving deep into JavaScript to enhance my skill set. Excited to contribute to innovative projects and continuously learn and grow in the world of web development.
 
 ---
