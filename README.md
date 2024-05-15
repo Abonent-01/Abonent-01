@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### About me:
 Front-end developer passionate about crafting engaging and user-friendly web experiences. Proficient in HTML and CSS, currently diving deep into JavaScript to enhance my skill set. Excited to contribute to innovative projects and continuously learn and grow in the world of web development.
+My decision to become a frontend developer stems from a desire to blend creativity with functionality, leveraging technologies like HTML, CSS, and JavaScript to build intuitive and visually appealing websites. With every line of code I write, I strive to craft solutions that not only meet user needs but exceed expectations.
 
 ---
 
